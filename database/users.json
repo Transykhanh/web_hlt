@@ -1,0 +1,102 @@
+[
+  {
+    "_id": {
+      "$oid": "a10000000000000000000001"
+    },
+    "fullName": "Quản Trị Viên",
+    "email": "admin@codelearn.vn",
+    "password": "$2b$10$YtC/v1oJ19gQoD8aAkuI/.qccgBxx7sV2OWXZOM8fR4vfGdlPrcmy",
+    "role": "admin",
+    "status": "active",
+    "avatar": "/images/avatars/user-1.png",
+    "lastLoginAt": {
+      "$date": "2026-11-20T03:00:00.000Z"
+    },
+    "createdAt": {
+      "$date": "2026-10-01T03:00:00.000Z"
+    },
+    "updatedAt": {
+      "$date": "2026-10-01T03:00:00.000Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "a10000000000000000000002"
+    },
+    "fullName": "Nguyễn Văn An",
+    "email": "an.nguyen@example.com",
+    "password": "$2b$10$YtC/v1oJ19gQoD8aAkuI/.qccgBxx7sV2OWXZOM8fR4vfGdlPrcmy",
+    "role": "student",
+    "status": "active",
+    "avatar": "/images/avatars/user-2.png",
+    "lastLoginAt": {
+      "$date": "2026-11-20T03:00:00.000Z"
+    },
+    "createdAt": {
+      "$date": "2026-10-01T03:00:00.000Z"
+    },
+    "updatedAt": {
+      "$date": "2026-10-01T03:00:00.000Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "a10000000000000000000003"
+    },
+    "fullName": "Trần Thị Bình",
+    "email": "binh.tran@example.com",
+    "password": "$2b$10$YtC/v1oJ19gQoD8aAkuI/.qccgBxx7sV2OWXZOM8fR4vfGdlPrcmy",
+    "role": "student",
+    "status": "active",
+    "avatar": "/images/avatars/user-3.png",
+    "lastLoginAt": {
+      "$date": "2026-11-20T03:00:00.000Z"
+    },
+    "createdAt": {
+      "$date": "2026-10-01T03:00:00.000Z"
+    },
+    "updatedAt": {
+      "$date": "2026-10-01T03:00:00.000Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "a10000000000000000000004"
+    },
+    "fullName": "Lê Minh Cường",
+    "email": "cuong.le@example.com",
+    "password": "$2b$10$YtC/v1oJ19gQoD8aAkuI/.qccgBxx7sV2OWXZOM8fR4vfGdlPrcmy",
+    "role": "student",
+    "status": "active",
+    "avatar": "/images/avatars/user-4.png",
+    "lastLoginAt": {
+      "$date": "2026-11-20T03:00:00.000Z"
+    },
+    "createdAt": {
+      "$date": "2026-10-01T03:00:00.000Z"
+    },
+    "updatedAt": {
+      "$date": "2026-10-01T03:00:00.000Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "a10000000000000000000005"
+    },
+    "fullName": "Phạm Thu Dung",
+    "email": "dung.pham@example.com",
+    "password": "$2b$10$YtC/v1oJ19gQoD8aAkuI/.qccgBxx7sV2OWXZOM8fR4vfGdlPrcmy",
+    "role": "student",
+    "status": "locked",
+    "avatar": "/images/avatars/user-5.png",
+    "lastLoginAt": {
+      "$date": "2026-11-20T03:00:00.000Z"
+    },
+    "createdAt": {
+      "$date": "2026-10-01T03:00:00.000Z"
+    },
+    "updatedAt": {
+      "$date": "2026-10-01T03:00:00.000Z"
+    }
+  }
+]

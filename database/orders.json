@@ -1,0 +1,168 @@
+[
+  {
+    "_id": {
+      "$oid": "a60000000000000000000001"
+    },
+    "orderCode": "ORD-20261010-0001",
+    "userId": {
+      "$oid": "a10000000000000000000002"
+    },
+    "courseId": {
+      "$oid": "a30000000000000000000002"
+    },
+    "amount": 299000,
+    "paymentMethod": "mock_qr",
+    "qrToken": "53dd493e5b18cc3a68d5041d02f4a7222027b33366a74502",
+    "status": "paid",
+    "expiresAt": {
+      "$date": "2026-10-10T02:00:00.000Z"
+    },
+    "paidAt": {
+      "$date": "2026-10-10T01:55:00.000Z"
+    },
+    "qrScanned": true,
+    "scannedAt": {
+      "$date": "2026-10-10T01:56:00.000Z"
+    },
+    "createdAt": {
+      "$date": "2026-10-10T01:55:00.000Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "a60000000000000000000002"
+    },
+    "orderCode": "ORD-20261012-0002",
+    "userId": {
+      "$oid": "a10000000000000000000003"
+    },
+    "courseId": {
+      "$oid": "a30000000000000000000004"
+    },
+    "amount": 499000,
+    "paymentMethod": "mock_qr",
+    "qrToken": "ecbc0d6cc2c9e46b9bb91d77221a1a4943e26d456908bba1",
+    "status": "paid",
+    "expiresAt": {
+      "$date": "2026-10-12T08:05:00.000Z"
+    },
+    "paidAt": {
+      "$date": "2026-10-12T08:00:00.000Z"
+    },
+    "qrScanned": true,
+    "scannedAt": {
+      "$date": "2026-10-12T08:01:00.000Z"
+    },
+    "createdAt": {
+      "$date": "2026-10-12T08:00:00.000Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "a60000000000000000000003"
+    },
+    "orderCode": "ORD-20261101-0003",
+    "userId": {
+      "$oid": "a10000000000000000000002"
+    },
+    "courseId": {
+      "$oid": "a30000000000000000000005"
+    },
+    "amount": 399000,
+    "paymentMethod": "mock_qr",
+    "qrToken": "e6b3f0ca72c6d06ebbac24cb6fdaae1d3d60a17adaa664bb",
+    "status": "expired",
+    "expiresAt": {
+      "$date": "2026-11-01T04:05:00.000Z"
+    },
+    "paidAt": null,
+    "qrScanned": false,
+    "scannedAt": null,
+    "createdAt": {
+      "$date": "2026-11-01T04:00:00.000Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "a60000000000000000000004"
+    },
+    "orderCode": "ORD-20261121-0004",
+    "userId": {
+      "$oid": "a10000000000000000000004"
+    },
+    "courseId": {
+      "$oid": "a30000000000000000000005"
+    },
+    "amount": 399000,
+    "paymentMethod": "mock_qr",
+    "qrToken": "a0e9113da62c094cd502bc10aadc2f3bc4c1285798e45a54",
+    "status": "pending",
+    "expiresAt": {
+      "$date": "2026-11-21T02:10:00.000Z"
+    },
+    "paidAt": null,
+    "qrScanned": true,
+    "scannedAt": {
+      "$date": "2026-11-21T02:07:00.000Z"
+    },
+    "createdAt": {
+      "$date": "2026-11-21T02:05:00.000Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "a60000000000000000000005"
+    },
+    "orderCode": "ORD-20261115-0005",
+    "userId": {
+      "$oid": "a10000000000000000000004"
+    },
+    "courseId": {
+      "$oid": "a30000000000000000000002"
+    },
+    "amount": 299000,
+    "paymentMethod": "mock_qr",
+    "qrToken": "176439e83f86159d1fd1cf93d2a7fca91ece31f4208c4b4c",
+    "status": "paid",
+    "expiresAt": {
+      "$date": "2026-11-15T10:05:00.000Z"
+    },
+    "paidAt": {
+      "$date": "2026-11-15T10:02:00.000Z"
+    },
+    "qrScanned": true,
+    "scannedAt": {
+      "$date": "2026-11-15T10:01:00.000Z"
+    },
+    "createdAt": {
+      "$date": "2026-11-15T10:00:00.000Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "a60000000000000000000006"
+    },
+    "orderCode": "ORD-20261118-0006",
+    "userId": {
+      "$oid": "a10000000000000000000003"
+    },
+    "courseId": {
+      "$oid": "a30000000000000000000005"
+    },
+    "amount": 399000,
+    "paymentMethod": "mock_qr",
+    "qrToken": "558ce8e96f8d88b38979be0d58dc9b76cfbf93e74326e45e",
+    "status": "cancelled",
+    "expiresAt": {
+      "$date": "2026-11-18T06:05:00.000Z"
+    },
+    "paidAt": null,
+    "qrScanned": true,
+    "scannedAt": {
+      "$date": "2026-11-18T06:02:00.000Z"
+    },
+    "createdAt": {
+      "$date": "2026-11-18T06:00:00.000Z"
+    }
+  }
+]

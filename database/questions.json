@@ -1,0 +1,463 @@
+[
+  {
+    "_id": {
+      "$oid": "aa0000000000000000000001"
+    },
+    "quizId": {
+      "$oid": "a90000000000000000000001"
+    },
+    "type": "single_choice",
+    "content": "Thẻ nào dùng để tạo tiêu đề lớn nhất?",
+    "options": [
+      {
+        "key": "A",
+        "text": "<h1>"
+      },
+      {
+        "key": "B",
+        "text": "<head>"
+      },
+      {
+        "key": "C",
+        "text": "<title>"
+      },
+      {
+        "key": "D",
+        "text": "<p>"
+      }
+    ],
+    "correctAnswer": "A",
+    "points": 1,
+    "explanation": "<h1> là tiêu đề cấp cao nhất."
+  },
+  {
+    "_id": {
+      "$oid": "aa0000000000000000000002"
+    },
+    "quizId": {
+      "$oid": "a90000000000000000000001"
+    },
+    "type": "single_choice",
+    "content": "Thuộc tính nào chứa đường dẫn của liên kết <a>?",
+    "options": [
+      {
+        "key": "A",
+        "text": "src"
+      },
+      {
+        "key": "B",
+        "text": "href"
+      },
+      {
+        "key": "C",
+        "text": "link"
+      },
+      {
+        "key": "D",
+        "text": "url"
+      }
+    ],
+    "correctAnswer": "B",
+    "points": 1,
+    "explanation": "href chỉ định địa chỉ đích."
+  },
+  {
+    "_id": {
+      "$oid": "aa0000000000000000000003"
+    },
+    "quizId": {
+      "$oid": "a90000000000000000000001"
+    },
+    "type": "single_choice",
+    "content": "HTML là viết tắt của?",
+    "options": [
+      {
+        "key": "A",
+        "text": "HyperText Markup Language"
+      },
+      {
+        "key": "B",
+        "text": "High Tech Modern Language"
+      },
+      {
+        "key": "C",
+        "text": "Hyper Transfer Markup Link"
+      },
+      {
+        "key": "D",
+        "text": "Home Tool Markup Language"
+      }
+    ],
+    "correctAnswer": "A",
+    "points": 1,
+    "explanation": "HyperText Markup Language."
+  },
+  {
+    "_id": {
+      "$oid": "aa0000000000000000000004"
+    },
+    "quizId": {
+      "$oid": "a90000000000000000000002"
+    },
+    "type": "single_choice",
+    "content": "Từ khóa nào khai báo hằng số?",
+    "options": [
+      {
+        "key": "A",
+        "text": "var"
+      },
+      {
+        "key": "B",
+        "text": "let"
+      },
+      {
+        "key": "C",
+        "text": "const"
+      },
+      {
+        "key": "D",
+        "text": "static"
+      }
+    ],
+    "correctAnswer": "C",
+    "points": 1,
+    "explanation": "const khai báo hằng số, không gán lại được."
+  },
+  {
+    "_id": {
+      "$oid": "aa0000000000000000000005"
+    },
+    "quizId": {
+      "$oid": "a90000000000000000000002"
+    },
+    "type": "single_choice",
+    "content": "typeof null trả về gì?",
+    "options": [
+      {
+        "key": "A",
+        "text": "\"null\""
+      },
+      {
+        "key": "B",
+        "text": "\"object\""
+      },
+      {
+        "key": "C",
+        "text": "\"undefined\""
+      },
+      {
+        "key": "D",
+        "text": "\"number\""
+      }
+    ],
+    "correctAnswer": "B",
+    "points": 1,
+    "explanation": "Đây là đặc điểm lịch sử của JavaScript."
+  },
+  {
+    "_id": {
+      "$oid": "aa0000000000000000000006"
+    },
+    "quizId": {
+      "$oid": "a90000000000000000000002"
+    },
+    "type": "single_choice",
+    "content": "Phương thức nào thêm phần tử vào cuối mảng?",
+    "options": [
+      {
+        "key": "A",
+        "text": "push()"
+      },
+      {
+        "key": "B",
+        "text": "pop()"
+      },
+      {
+        "key": "C",
+        "text": "shift()"
+      },
+      {
+        "key": "D",
+        "text": "concat()"
+      }
+    ],
+    "correctAnswer": "A",
+    "points": 1,
+    "explanation": "push() thêm vào cuối mảng."
+  },
+  {
+    "_id": {
+      "$oid": "aa0000000000000000000007"
+    },
+    "quizId": {
+      "$oid": "a90000000000000000000003"
+    },
+    "type": "single_choice",
+    "content": "Hàm nào in ra màn hình?",
+    "options": [
+      {
+        "key": "A",
+        "text": "echo()"
+      },
+      {
+        "key": "B",
+        "text": "print()"
+      },
+      {
+        "key": "C",
+        "text": "console.log()"
+      },
+      {
+        "key": "D",
+        "text": "write()"
+      }
+    ],
+    "correctAnswer": "B",
+    "points": 1,
+    "explanation": "Python dùng print()."
+  },
+  {
+    "_id": {
+      "$oid": "aa0000000000000000000008"
+    },
+    "quizId": {
+      "$oid": "a90000000000000000000003"
+    },
+    "type": "single_choice",
+    "content": "Kiểu dữ liệu nào lưu cặp key-value?",
+    "options": [
+      {
+        "key": "A",
+        "text": "list"
+      },
+      {
+        "key": "B",
+        "text": "tuple"
+      },
+      {
+        "key": "C",
+        "text": "dict"
+      },
+      {
+        "key": "D",
+        "text": "set"
+      }
+    ],
+    "correctAnswer": "C",
+    "points": 1,
+    "explanation": "dict lưu key-value."
+  },
+  {
+    "_id": {
+      "$oid": "aa0000000000000000000009"
+    },
+    "quizId": {
+      "$oid": "a90000000000000000000003"
+    },
+    "type": "single_choice",
+    "content": "Python dùng gì để xác định khối lệnh?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Dấu ngoặc nhọn"
+      },
+      {
+        "key": "B",
+        "text": "Thụt đầu dòng"
+      },
+      {
+        "key": "C",
+        "text": "Từ khóa end"
+      },
+      {
+        "key": "D",
+        "text": "Dấu chấm phẩy"
+      }
+    ],
+    "correctAnswer": "B",
+    "points": 1,
+    "explanation": "Python dùng thụt đầu dòng."
+  },
+  {
+    "_id": {
+      "$oid": "aa0000000000000000000010"
+    },
+    "quizId": {
+      "$oid": "a90000000000000000000004"
+    },
+    "type": "single_choice",
+    "content": "JSX là gì?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Phần mở rộng cú pháp của JavaScript"
+      },
+      {
+        "key": "B",
+        "text": "Một ngôn ngữ CSS"
+      },
+      {
+        "key": "C",
+        "text": "Một cơ sở dữ liệu"
+      },
+      {
+        "key": "D",
+        "text": "Một trình biên dịch Python"
+      }
+    ],
+    "correctAnswer": "A",
+    "points": 1,
+    "explanation": "JSX cho phép viết cấu trúc giống HTML trong JavaScript."
+  },
+  {
+    "_id": {
+      "$oid": "aa0000000000000000000011"
+    },
+    "quizId": {
+      "$oid": "a90000000000000000000004"
+    },
+    "type": "multiple",
+    "content": "Chọn các Hook có sẵn trong React.",
+    "options": [
+      {
+        "key": "A",
+        "text": "useState"
+      },
+      {
+        "key": "B",
+        "text": "useEffect"
+      },
+      {
+        "key": "C",
+        "text": "useQuery"
+      },
+      {
+        "key": "D",
+        "text": "useRef"
+      }
+    ],
+    "correctAnswer": [
+      "A",
+      "B",
+      "D"
+    ],
+    "points": 2,
+    "explanation": "useQuery thuộc thư viện bên ngoài."
+  },
+  {
+    "_id": {
+      "$oid": "aa0000000000000000000012"
+    },
+    "quizId": {
+      "$oid": "a90000000000000000000004"
+    },
+    "type": "true_false",
+    "content": "Component con có thể sửa trực tiếp props nhận từ cha.",
+    "options": [
+      {
+        "key": "A",
+        "text": "Đúng"
+      },
+      {
+        "key": "B",
+        "text": "Sai"
+      }
+    ],
+    "correctAnswer": "B",
+    "points": 1,
+    "explanation": "Props là chỉ đọc."
+  },
+  {
+    "_id": {
+      "$oid": "aa0000000000000000000013"
+    },
+    "quizId": {
+      "$oid": "a90000000000000000000005"
+    },
+    "type": "single_choice",
+    "content": "bcryptjs dùng để làm gì?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Băm mật khẩu"
+      },
+      {
+        "key": "B",
+        "text": "Tạo QR"
+      },
+      {
+        "key": "C",
+        "text": "Kết nối MongoDB"
+      },
+      {
+        "key": "D",
+        "text": "Gửi email"
+      }
+    ],
+    "correctAnswer": "A",
+    "points": 1,
+    "explanation": "bcryptjs băm mật khẩu một chiều."
+  },
+  {
+    "_id": {
+      "$oid": "aa0000000000000000000014"
+    },
+    "quizId": {
+      "$oid": "a90000000000000000000005"
+    },
+    "type": "single_choice",
+    "content": "JWT là viết tắt của?",
+    "options": [
+      {
+        "key": "A",
+        "text": "JSON Web Token"
+      },
+      {
+        "key": "B",
+        "text": "Java Web Tool"
+      },
+      {
+        "key": "C",
+        "text": "JavaScript Web Type"
+      },
+      {
+        "key": "D",
+        "text": "JSON Wrapper Text"
+      }
+    ],
+    "correctAnswer": "A",
+    "points": 1,
+    "explanation": "JSON Web Token."
+  },
+  {
+    "_id": {
+      "$oid": "aa0000000000000000000015"
+    },
+    "quizId": {
+      "$oid": "a90000000000000000000005"
+    },
+    "type": "single_choice",
+    "content": "Thiếu token hợp lệ thì API nên trả mã trạng thái nào?",
+    "options": [
+      {
+        "key": "A",
+        "text": "200"
+      },
+      {
+        "key": "B",
+        "text": "401"
+      },
+      {
+        "key": "C",
+        "text": "404"
+      },
+      {
+        "key": "D",
+        "text": "500"
+      }
+    ],
+    "correctAnswer": "B",
+    "points": 1,
+    "explanation": "401 Unauthorized."
+  }
+]

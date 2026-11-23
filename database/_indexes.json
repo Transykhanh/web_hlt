@@ -1,0 +1,151 @@
+[
+  {
+    "collection": "users",
+    "index": {
+      "email": 1
+    },
+    "options": {
+      "unique": true
+    }
+  },
+  {
+    "collection": "orders",
+    "index": {
+      "orderCode": 1
+    },
+    "options": {
+      "unique": true
+    }
+  },
+  {
+    "collection": "orders",
+    "index": {
+      "qrToken": 1
+    },
+    "options": {
+      "unique": true
+    }
+  },
+  {
+    "collection": "payments",
+    "index": {
+      "transactionCode": 1
+    },
+    "options": {
+      "unique": true
+    }
+  },
+  {
+    "collection": "payments",
+    "index": {
+      "orderId": 1
+    },
+    "options": {
+      "unique": true
+    }
+  },
+  {
+    "collection": "enrollments",
+    "index": {
+      "userId": 1,
+      "courseId": 1
+    },
+    "options": {
+      "unique": true
+    }
+  },
+  {
+    "collection": "lesson_progress",
+    "index": {
+      "userId": 1,
+      "lessonId": 1
+    },
+    "options": {
+      "unique": true
+    }
+  },
+  {
+    "collection": "lessons",
+    "index": {
+      "courseId": 1,
+      "chapterId": 1,
+      "order": 1
+    },
+    "options": {}
+  },
+  {
+    "collection": "chapters",
+    "index": {
+      "courseId": 1,
+      "order": 1
+    },
+    "options": {}
+  },
+  {
+    "collection": "courses",
+    "index": {
+      "title": "text",
+      "description": "text"
+    },
+    "options": {}
+  },
+  {
+    "collection": "courses",
+    "index": {
+      "slug": 1
+    },
+    "options": {
+      "unique": true
+    }
+  },
+  {
+    "collection": "reviews",
+    "index": {
+      "userId": 1,
+      "courseId": 1
+    },
+    "options": {
+      "unique": true
+    }
+  },
+  {
+    "collection": "orders",
+    "index": {
+      "userId": 1,
+      "createdAt": -1
+    },
+    "options": {}
+  },
+  {
+    "collection": "orders",
+    "index": {
+      "status": 1,
+      "expiresAt": 1
+    },
+    "options": {}
+  },
+  {
+    "collection": "orders",
+    "index": {
+      "userId": 1,
+      "courseId": 1
+    },
+    "options": {
+      "unique": true,
+      "partialFilterExpression": {
+        "status": "pending"
+      }
+    }
+  },
+  {
+    "collection": "quiz_results",
+    "index": {
+      "quizId": 1,
+      "userId": 1,
+      "attempt": 1
+    },
+    "options": {
+      "unique": true
+    }
+  }
+]

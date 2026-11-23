@@ -1,0 +1,97 @@
+[
+  {
+    "_id": {
+      "$oid": "a90000000000000000000001"
+    },
+    "courseId": {
+      "$oid": "a30000000000000000000001"
+    },
+    "chapterId": {
+      "$oid": "a40000000000000000000001"
+    },
+    "lessonId": {
+      "$oid": "a50000000000000000000003"
+    },
+    "title": "Kiểm tra HTML cơ bản",
+    "description": "Bài kiểm tra ngắn: Kiểm tra HTML cơ bản.",
+    "passScore": 60,
+    "timeLimit": 15,
+    "maxAttempts": 3
+  },
+  {
+    "_id": {
+      "$oid": "a90000000000000000000002"
+    },
+    "courseId": {
+      "$oid": "a30000000000000000000002"
+    },
+    "chapterId": {
+      "$oid": "a40000000000000000000003"
+    },
+    "lessonId": {
+      "$oid": "a50000000000000000000009"
+    },
+    "title": "Kiểm tra nền tảng JavaScript",
+    "description": "Bài kiểm tra ngắn: Kiểm tra nền tảng JavaScript.",
+    "passScore": 70,
+    "timeLimit": 20,
+    "maxAttempts": 3
+  },
+  {
+    "_id": {
+      "$oid": "a90000000000000000000003"
+    },
+    "courseId": {
+      "$oid": "a30000000000000000000003"
+    },
+    "chapterId": {
+      "$oid": "a40000000000000000000005"
+    },
+    "lessonId": {
+      "$oid": "a50000000000000000000015"
+    },
+    "title": "Kiểm tra Python cơ bản",
+    "description": "Bài kiểm tra ngắn: Kiểm tra Python cơ bản.",
+    "passScore": 60,
+    "timeLimit": 15,
+    "maxAttempts": 3
+  },
+  {
+    "_id": {
+      "$oid": "a90000000000000000000004"
+    },
+    "courseId": {
+      "$oid": "a30000000000000000000004"
+    },
+    "chapterId": {
+      "$oid": "a40000000000000000000007"
+    },
+    "lessonId": {
+      "$oid": "a50000000000000000000021"
+    },
+    "title": "Kiểm tra React cơ bản",
+    "description": "Bài kiểm tra ngắn: Kiểm tra React cơ bản.",
+    "passScore": 70,
+    "timeLimit": 20,
+    "maxAttempts": 2
+  },
+  {
+    "_id": {
+      "$oid": "a90000000000000000000005"
+    },
+    "courseId": {
+      "$oid": "a30000000000000000000005"
+    },
+    "chapterId": {
+      "$oid": "a40000000000000000000010"
+    },
+    "lessonId": {
+      "$oid": "a50000000000000000000030"
+    },
+    "title": "Kiểm tra bảo mật API",
+    "description": "Bài kiểm tra ngắn: Kiểm tra bảo mật API.",
+    "passScore": 70,
+    "timeLimit": 15,
+    "maxAttempts": 3
+  }
+]

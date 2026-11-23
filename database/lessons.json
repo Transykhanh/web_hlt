@@ -1,0 +1,761 @@
+[
+  {
+    "_id": {
+      "$oid": "a50000000000000000000001"
+    },
+    "courseId": {
+      "$oid": "a30000000000000000000001"
+    },
+    "chapterId": {
+      "$oid": "a40000000000000000000001"
+    },
+    "title": "HTML là gì?",
+    "content": "Nội dung chi tiết bài \"HTML là gì?\" thuộc khóa \"HTML & CSS cơ bản\".",
+    "videoUrl": "https://www.youtube.com/watch?v=demo1",
+    "codeExample": "<h1>Xin chào!</h1>",
+    "attachments": [
+      {
+        "name": "Slide - HTML là gì?.pdf",
+        "url": "/files/course-1/lesson-1-slide.pdf"
+      }
+    ],
+    "isPreview": true,
+    "order": 1
+  },
+  {
+    "_id": {
+      "$oid": "a50000000000000000000002"
+    },
+    "courseId": {
+      "$oid": "a30000000000000000000001"
+    },
+    "chapterId": {
+      "$oid": "a40000000000000000000001"
+    },
+    "title": "Các thẻ cơ bản",
+    "content": "Nội dung chi tiết bài \"Các thẻ cơ bản\" thuộc khóa \"HTML & CSS cơ bản\".",
+    "videoUrl": "https://www.youtube.com/watch?v=demo2",
+    "codeExample": "<h1>Xin chào!</h1>",
+    "attachments": [
+      {
+        "name": "Slide - Các thẻ cơ bản.pdf",
+        "url": "/files/course-1/lesson-2-slide.pdf"
+      }
+    ],
+    "isPreview": false,
+    "order": 2
+  },
+  {
+    "_id": {
+      "$oid": "a50000000000000000000003"
+    },
+    "courseId": {
+      "$oid": "a30000000000000000000001"
+    },
+    "chapterId": {
+      "$oid": "a40000000000000000000001"
+    },
+    "title": "Form và bảng biểu",
+    "content": "Nội dung chi tiết bài \"Form và bảng biểu\" thuộc khóa \"HTML & CSS cơ bản\".",
+    "videoUrl": "https://www.youtube.com/watch?v=demo3",
+    "codeExample": "<h1>Xin chào!</h1>",
+    "attachments": [
+      {
+        "name": "Slide - Form và bảng biểu.pdf",
+        "url": "/files/course-1/lesson-3-slide.pdf"
+      }
+    ],
+    "isPreview": false,
+    "order": 3
+  },
+  {
+    "_id": {
+      "$oid": "a50000000000000000000004"
+    },
+    "courseId": {
+      "$oid": "a30000000000000000000001"
+    },
+    "chapterId": {
+      "$oid": "a40000000000000000000002"
+    },
+    "title": "Selector và thuộc tính",
+    "content": "Nội dung chi tiết bài \"Selector và thuộc tính\" thuộc khóa \"HTML & CSS cơ bản\".",
+    "videoUrl": "https://www.youtube.com/watch?v=demo4",
+    "codeExample": "<h1>Xin chào!</h1>",
+    "attachments": [
+      {
+        "name": "Slide - Selector và thuộc tính.pdf",
+        "url": "/files/course-1/lesson-4-slide.pdf"
+      }
+    ],
+    "isPreview": false,
+    "order": 1
+  },
+  {
+    "_id": {
+      "$oid": "a50000000000000000000005"
+    },
+    "courseId": {
+      "$oid": "a30000000000000000000001"
+    },
+    "chapterId": {
+      "$oid": "a40000000000000000000002"
+    },
+    "title": "Box model",
+    "content": "Nội dung chi tiết bài \"Box model\" thuộc khóa \"HTML & CSS cơ bản\".",
+    "videoUrl": "https://www.youtube.com/watch?v=demo5",
+    "codeExample": "<h1>Xin chào!</h1>",
+    "attachments": [
+      {
+        "name": "Slide - Box model.pdf",
+        "url": "/files/course-1/lesson-5-slide.pdf"
+      }
+    ],
+    "isPreview": false,
+    "order": 2
+  },
+  {
+    "_id": {
+      "$oid": "a50000000000000000000006"
+    },
+    "courseId": {
+      "$oid": "a30000000000000000000001"
+    },
+    "chapterId": {
+      "$oid": "a40000000000000000000002"
+    },
+    "title": "Flexbox căn bản",
+    "content": "Nội dung chi tiết bài \"Flexbox căn bản\" thuộc khóa \"HTML & CSS cơ bản\".",
+    "videoUrl": "https://www.youtube.com/watch?v=demo6",
+    "codeExample": "<h1>Xin chào!</h1>",
+    "attachments": [
+      {
+        "name": "Slide - Flexbox căn bản.pdf",
+        "url": "/files/course-1/lesson-6-slide.pdf"
+      }
+    ],
+    "isPreview": false,
+    "order": 3
+  },
+  {
+    "_id": {
+      "$oid": "a50000000000000000000007"
+    },
+    "courseId": {
+      "$oid": "a30000000000000000000002"
+    },
+    "chapterId": {
+      "$oid": "a40000000000000000000003"
+    },
+    "title": "Biến và kiểu dữ liệu",
+    "content": "Nội dung chi tiết bài \"Biến và kiểu dữ liệu\" thuộc khóa \"JavaScript từ cơ bản đến nâng cao\".",
+    "videoUrl": "https://www.youtube.com/watch?v=demo7",
+    "codeExample": "const tong = (a, b) => a + b;\nconsole.log(tong(2, 3));",
+    "attachments": [
+      {
+        "name": "Slide - Biến và kiểu dữ liệu.pdf",
+        "url": "/files/course-2/lesson-7-slide.pdf"
+      }
+    ],
+    "isPreview": true,
+    "order": 1
+  },
+  {
+    "_id": {
+      "$oid": "a50000000000000000000008"
+    },
+    "courseId": {
+      "$oid": "a30000000000000000000002"
+    },
+    "chapterId": {
+      "$oid": "a40000000000000000000003"
+    },
+    "title": "Hàm và phạm vi",
+    "content": "Nội dung chi tiết bài \"Hàm và phạm vi\" thuộc khóa \"JavaScript từ cơ bản đến nâng cao\".",
+    "videoUrl": "https://www.youtube.com/watch?v=demo8",
+    "codeExample": "const tong = (a, b) => a + b;\nconsole.log(tong(2, 3));",
+    "attachments": [
+      {
+        "name": "Slide - Hàm và phạm vi.pdf",
+        "url": "/files/course-2/lesson-8-slide.pdf"
+      }
+    ],
+    "isPreview": false,
+    "order": 2
+  },
+  {
+    "_id": {
+      "$oid": "a50000000000000000000009"
+    },
+    "courseId": {
+      "$oid": "a30000000000000000000002"
+    },
+    "chapterId": {
+      "$oid": "a40000000000000000000003"
+    },
+    "title": "Mảng và đối tượng",
+    "content": "Nội dung chi tiết bài \"Mảng và đối tượng\" thuộc khóa \"JavaScript từ cơ bản đến nâng cao\".",
+    "videoUrl": "https://www.youtube.com/watch?v=demo9",
+    "codeExample": "const tong = (a, b) => a + b;\nconsole.log(tong(2, 3));",
+    "attachments": [
+      {
+        "name": "Slide - Mảng và đối tượng.pdf",
+        "url": "/files/course-2/lesson-9-slide.pdf"
+      }
+    ],
+    "isPreview": false,
+    "order": 3
+  },
+  {
+    "_id": {
+      "$oid": "a50000000000000000000010"
+    },
+    "courseId": {
+      "$oid": "a30000000000000000000002"
+    },
+    "chapterId": {
+      "$oid": "a40000000000000000000004"
+    },
+    "title": "Thao tác DOM",
+    "content": "Nội dung chi tiết bài \"Thao tác DOM\" thuộc khóa \"JavaScript từ cơ bản đến nâng cao\".",
+    "videoUrl": "https://www.youtube.com/watch?v=demo10",
+    "codeExample": "const tong = (a, b) => a + b;\nconsole.log(tong(2, 3));",
+    "attachments": [
+      {
+        "name": "Slide - Thao tác DOM.pdf",
+        "url": "/files/course-2/lesson-10-slide.pdf"
+      }
+    ],
+    "isPreview": false,
+    "order": 1
+  },
+  {
+    "_id": {
+      "$oid": "a50000000000000000000011"
+    },
+    "courseId": {
+      "$oid": "a30000000000000000000002"
+    },
+    "chapterId": {
+      "$oid": "a40000000000000000000004"
+    },
+    "title": "Promise và async/await",
+    "content": "Nội dung chi tiết bài \"Promise và async/await\" thuộc khóa \"JavaScript từ cơ bản đến nâng cao\".",
+    "videoUrl": "https://www.youtube.com/watch?v=demo11",
+    "codeExample": "const tong = (a, b) => a + b;\nconsole.log(tong(2, 3));",
+    "attachments": [
+      {
+        "name": "Slide - Promise và async/await.pdf",
+        "url": "/files/course-2/lesson-11-slide.pdf"
+      }
+    ],
+    "isPreview": false,
+    "order": 2
+  },
+  {
+    "_id": {
+      "$oid": "a50000000000000000000012"
+    },
+    "courseId": {
+      "$oid": "a30000000000000000000002"
+    },
+    "chapterId": {
+      "$oid": "a40000000000000000000004"
+    },
+    "title": "Fetch API",
+    "content": "Nội dung chi tiết bài \"Fetch API\" thuộc khóa \"JavaScript từ cơ bản đến nâng cao\".",
+    "videoUrl": "https://www.youtube.com/watch?v=demo12",
+    "codeExample": "const tong = (a, b) => a + b;\nconsole.log(tong(2, 3));",
+    "attachments": [
+      {
+        "name": "Slide - Fetch API.pdf",
+        "url": "/files/course-2/lesson-12-slide.pdf"
+      }
+    ],
+    "isPreview": false,
+    "order": 3
+  },
+  {
+    "_id": {
+      "$oid": "a50000000000000000000013"
+    },
+    "courseId": {
+      "$oid": "a30000000000000000000003"
+    },
+    "chapterId": {
+      "$oid": "a40000000000000000000005"
+    },
+    "title": "Cài đặt và chương trình đầu tiên",
+    "content": "Nội dung chi tiết bài \"Cài đặt và chương trình đầu tiên\" thuộc khóa \"Python cho người mới bắt đầu\".",
+    "videoUrl": "https://www.youtube.com/watch?v=demo13",
+    "codeExample": "print(\"Xin chào Python\")",
+    "attachments": [
+      {
+        "name": "Slide - Cài đặt và chương trình đầu tiên.pdf",
+        "url": "/files/course-3/lesson-13-slide.pdf"
+      }
+    ],
+    "isPreview": true,
+    "order": 1
+  },
+  {
+    "_id": {
+      "$oid": "a50000000000000000000014"
+    },
+    "courseId": {
+      "$oid": "a30000000000000000000003"
+    },
+    "chapterId": {
+      "$oid": "a40000000000000000000005"
+    },
+    "title": "Biến và kiểu dữ liệu",
+    "content": "Nội dung chi tiết bài \"Biến và kiểu dữ liệu\" thuộc khóa \"Python cho người mới bắt đầu\".",
+    "videoUrl": "https://www.youtube.com/watch?v=demo14",
+    "codeExample": "print(\"Xin chào Python\")",
+    "attachments": [
+      {
+        "name": "Slide - Biến và kiểu dữ liệu.pdf",
+        "url": "/files/course-3/lesson-14-slide.pdf"
+      }
+    ],
+    "isPreview": false,
+    "order": 2
+  },
+  {
+    "_id": {
+      "$oid": "a50000000000000000000015"
+    },
+    "courseId": {
+      "$oid": "a30000000000000000000003"
+    },
+    "chapterId": {
+      "$oid": "a40000000000000000000005"
+    },
+    "title": "Câu lệnh điều kiện",
+    "content": "Nội dung chi tiết bài \"Câu lệnh điều kiện\" thuộc khóa \"Python cho người mới bắt đầu\".",
+    "videoUrl": "https://www.youtube.com/watch?v=demo15",
+    "codeExample": "print(\"Xin chào Python\")",
+    "attachments": [
+      {
+        "name": "Slide - Câu lệnh điều kiện.pdf",
+        "url": "/files/course-3/lesson-15-slide.pdf"
+      }
+    ],
+    "isPreview": false,
+    "order": 3
+  },
+  {
+    "_id": {
+      "$oid": "a50000000000000000000016"
+    },
+    "courseId": {
+      "$oid": "a30000000000000000000003"
+    },
+    "chapterId": {
+      "$oid": "a40000000000000000000006"
+    },
+    "title": "List và dict",
+    "content": "Nội dung chi tiết bài \"List và dict\" thuộc khóa \"Python cho người mới bắt đầu\".",
+    "videoUrl": "https://www.youtube.com/watch?v=demo16",
+    "codeExample": "print(\"Xin chào Python\")",
+    "attachments": [
+      {
+        "name": "Slide - List và dict.pdf",
+        "url": "/files/course-3/lesson-16-slide.pdf"
+      }
+    ],
+    "isPreview": false,
+    "order": 1
+  },
+  {
+    "_id": {
+      "$oid": "a50000000000000000000017"
+    },
+    "courseId": {
+      "$oid": "a30000000000000000000003"
+    },
+    "chapterId": {
+      "$oid": "a40000000000000000000006"
+    },
+    "title": "Vòng lặp",
+    "content": "Nội dung chi tiết bài \"Vòng lặp\" thuộc khóa \"Python cho người mới bắt đầu\".",
+    "videoUrl": "https://www.youtube.com/watch?v=demo17",
+    "codeExample": "print(\"Xin chào Python\")",
+    "attachments": [
+      {
+        "name": "Slide - Vòng lặp.pdf",
+        "url": "/files/course-3/lesson-17-slide.pdf"
+      }
+    ],
+    "isPreview": false,
+    "order": 2
+  },
+  {
+    "_id": {
+      "$oid": "a50000000000000000000018"
+    },
+    "courseId": {
+      "$oid": "a30000000000000000000003"
+    },
+    "chapterId": {
+      "$oid": "a40000000000000000000006"
+    },
+    "title": "Định nghĩa hàm",
+    "content": "Nội dung chi tiết bài \"Định nghĩa hàm\" thuộc khóa \"Python cho người mới bắt đầu\".",
+    "videoUrl": "https://www.youtube.com/watch?v=demo18",
+    "codeExample": "print(\"Xin chào Python\")",
+    "attachments": [
+      {
+        "name": "Slide - Định nghĩa hàm.pdf",
+        "url": "/files/course-3/lesson-18-slide.pdf"
+      }
+    ],
+    "isPreview": false,
+    "order": 3
+  },
+  {
+    "_id": {
+      "$oid": "a50000000000000000000019"
+    },
+    "courseId": {
+      "$oid": "a30000000000000000000004"
+    },
+    "chapterId": {
+      "$oid": "a40000000000000000000007"
+    },
+    "title": "JSX và component",
+    "content": "Nội dung chi tiết bài \"JSX và component\" thuộc khóa \"ReactJS thực chiến\".",
+    "videoUrl": "https://www.youtube.com/watch?v=demo19",
+    "codeExample": "function App() {\n  return <h1>Xin chào React</h1>;\n}",
+    "attachments": [
+      {
+        "name": "Slide - JSX và component.pdf",
+        "url": "/files/course-4/lesson-19-slide.pdf"
+      }
+    ],
+    "isPreview": true,
+    "order": 1
+  },
+  {
+    "_id": {
+      "$oid": "a50000000000000000000020"
+    },
+    "courseId": {
+      "$oid": "a30000000000000000000004"
+    },
+    "chapterId": {
+      "$oid": "a40000000000000000000007"
+    },
+    "title": "Props và state",
+    "content": "Nội dung chi tiết bài \"Props và state\" thuộc khóa \"ReactJS thực chiến\".",
+    "videoUrl": "https://www.youtube.com/watch?v=demo20",
+    "codeExample": "function App() {\n  return <h1>Xin chào React</h1>;\n}",
+    "attachments": [
+      {
+        "name": "Slide - Props và state.pdf",
+        "url": "/files/course-4/lesson-20-slide.pdf"
+      }
+    ],
+    "isPreview": false,
+    "order": 2
+  },
+  {
+    "_id": {
+      "$oid": "a50000000000000000000021"
+    },
+    "courseId": {
+      "$oid": "a30000000000000000000004"
+    },
+    "chapterId": {
+      "$oid": "a40000000000000000000007"
+    },
+    "title": "Hook useEffect",
+    "content": "Nội dung chi tiết bài \"Hook useEffect\" thuộc khóa \"ReactJS thực chiến\".",
+    "videoUrl": "https://www.youtube.com/watch?v=demo21",
+    "codeExample": "function App() {\n  return <h1>Xin chào React</h1>;\n}",
+    "attachments": [
+      {
+        "name": "Slide - Hook useEffect.pdf",
+        "url": "/files/course-4/lesson-21-slide.pdf"
+      }
+    ],
+    "isPreview": false,
+    "order": 3
+  },
+  {
+    "_id": {
+      "$oid": "a50000000000000000000022"
+    },
+    "courseId": {
+      "$oid": "a30000000000000000000004"
+    },
+    "chapterId": {
+      "$oid": "a40000000000000000000008"
+    },
+    "title": "React Router",
+    "content": "Nội dung chi tiết bài \"React Router\" thuộc khóa \"ReactJS thực chiến\".",
+    "videoUrl": "https://www.youtube.com/watch?v=demo22",
+    "codeExample": "function App() {\n  return <h1>Xin chào React</h1>;\n}",
+    "attachments": [
+      {
+        "name": "Slide - React Router.pdf",
+        "url": "/files/course-4/lesson-22-slide.pdf"
+      }
+    ],
+    "isPreview": false,
+    "order": 1
+  },
+  {
+    "_id": {
+      "$oid": "a50000000000000000000023"
+    },
+    "courseId": {
+      "$oid": "a30000000000000000000004"
+    },
+    "chapterId": {
+      "$oid": "a40000000000000000000008"
+    },
+    "title": "Gọi API bằng Axios",
+    "content": "Nội dung chi tiết bài \"Gọi API bằng Axios\" thuộc khóa \"ReactJS thực chiến\".",
+    "videoUrl": "https://www.youtube.com/watch?v=demo23",
+    "codeExample": "function App() {\n  return <h1>Xin chào React</h1>;\n}",
+    "attachments": [
+      {
+        "name": "Slide - Gọi API bằng Axios.pdf",
+        "url": "/files/course-4/lesson-23-slide.pdf"
+      }
+    ],
+    "isPreview": false,
+    "order": 2
+  },
+  {
+    "_id": {
+      "$oid": "a50000000000000000000024"
+    },
+    "courseId": {
+      "$oid": "a30000000000000000000004"
+    },
+    "chapterId": {
+      "$oid": "a40000000000000000000008"
+    },
+    "title": "Context và xác thực",
+    "content": "Nội dung chi tiết bài \"Context và xác thực\" thuộc khóa \"ReactJS thực chiến\".",
+    "videoUrl": "https://www.youtube.com/watch?v=demo24",
+    "codeExample": "function App() {\n  return <h1>Xin chào React</h1>;\n}",
+    "attachments": [
+      {
+        "name": "Slide - Context và xác thực.pdf",
+        "url": "/files/course-4/lesson-24-slide.pdf"
+      }
+    ],
+    "isPreview": false,
+    "order": 3
+  },
+  {
+    "_id": {
+      "$oid": "a50000000000000000000025"
+    },
+    "courseId": {
+      "$oid": "a30000000000000000000005"
+    },
+    "chapterId": {
+      "$oid": "a40000000000000000000009"
+    },
+    "title": "Khởi tạo server",
+    "content": "Nội dung chi tiết bài \"Khởi tạo server\" thuộc khóa \"Node.js & Express: xây dựng REST API\".",
+    "videoUrl": "https://www.youtube.com/watch?v=demo25",
+    "codeExample": "const express = require('express');\nconst app = express();\napp.listen(5000);",
+    "attachments": [
+      {
+        "name": "Slide - Khởi tạo server.pdf",
+        "url": "/files/course-5/lesson-25-slide.pdf"
+      }
+    ],
+    "isPreview": true,
+    "order": 1
+  },
+  {
+    "_id": {
+      "$oid": "a50000000000000000000026"
+    },
+    "courseId": {
+      "$oid": "a30000000000000000000005"
+    },
+    "chapterId": {
+      "$oid": "a40000000000000000000009"
+    },
+    "title": "Route và middleware",
+    "content": "Nội dung chi tiết bài \"Route và middleware\" thuộc khóa \"Node.js & Express: xây dựng REST API\".",
+    "videoUrl": "https://www.youtube.com/watch?v=demo26",
+    "codeExample": "const express = require('express');\nconst app = express();\napp.listen(5000);",
+    "attachments": [
+      {
+        "name": "Slide - Route và middleware.pdf",
+        "url": "/files/course-5/lesson-26-slide.pdf"
+      }
+    ],
+    "isPreview": false,
+    "order": 2
+  },
+  {
+    "_id": {
+      "$oid": "a50000000000000000000027"
+    },
+    "courseId": {
+      "$oid": "a30000000000000000000005"
+    },
+    "chapterId": {
+      "$oid": "a40000000000000000000009"
+    },
+    "title": "Kết nối MongoDB",
+    "content": "Nội dung chi tiết bài \"Kết nối MongoDB\" thuộc khóa \"Node.js & Express: xây dựng REST API\".",
+    "videoUrl": "https://www.youtube.com/watch?v=demo27",
+    "codeExample": "const express = require('express');\nconst app = express();\napp.listen(5000);",
+    "attachments": [
+      {
+        "name": "Slide - Kết nối MongoDB.pdf",
+        "url": "/files/course-5/lesson-27-slide.pdf"
+      }
+    ],
+    "isPreview": false,
+    "order": 3
+  },
+  {
+    "_id": {
+      "$oid": "a50000000000000000000028"
+    },
+    "courseId": {
+      "$oid": "a30000000000000000000005"
+    },
+    "chapterId": {
+      "$oid": "a40000000000000000000010"
+    },
+    "title": "Hash mật khẩu bằng bcryptjs",
+    "content": "Nội dung chi tiết bài \"Hash mật khẩu bằng bcryptjs\" thuộc khóa \"Node.js & Express: xây dựng REST API\".",
+    "videoUrl": "https://www.youtube.com/watch?v=demo28",
+    "codeExample": "const express = require('express');\nconst app = express();\napp.listen(5000);",
+    "attachments": [
+      {
+        "name": "Slide - Hash mật khẩu bằng bcryptjs.pdf",
+        "url": "/files/course-5/lesson-28-slide.pdf"
+      }
+    ],
+    "isPreview": false,
+    "order": 1
+  },
+  {
+    "_id": {
+      "$oid": "a50000000000000000000029"
+    },
+    "courseId": {
+      "$oid": "a30000000000000000000005"
+    },
+    "chapterId": {
+      "$oid": "a40000000000000000000010"
+    },
+    "title": "JWT và middleware xác thực",
+    "content": "Nội dung chi tiết bài \"JWT và middleware xác thực\" thuộc khóa \"Node.js & Express: xây dựng REST API\".",
+    "videoUrl": "https://www.youtube.com/watch?v=demo29",
+    "codeExample": "const express = require('express');\nconst app = express();\napp.listen(5000);",
+    "attachments": [
+      {
+        "name": "Slide - JWT và middleware xác thực.pdf",
+        "url": "/files/course-5/lesson-29-slide.pdf"
+      }
+    ],
+    "isPreview": false,
+    "order": 2
+  },
+  {
+    "_id": {
+      "$oid": "a50000000000000000000030"
+    },
+    "courseId": {
+      "$oid": "a30000000000000000000005"
+    },
+    "chapterId": {
+      "$oid": "a40000000000000000000010"
+    },
+    "title": "Phân quyền Admin/Student",
+    "content": "Nội dung chi tiết bài \"Phân quyền Admin/Student\" thuộc khóa \"Node.js & Express: xây dựng REST API\".",
+    "videoUrl": "https://www.youtube.com/watch?v=demo30",
+    "codeExample": "const express = require('express');\nconst app = express();\napp.listen(5000);",
+    "attachments": [
+      {
+        "name": "Slide - Phân quyền Admin/Student.pdf",
+        "url": "/files/course-5/lesson-30-slide.pdf"
+      }
+    ],
+    "isPreview": false,
+    "order": 3
+  },
+  {
+    "_id": {
+      "$oid": "a50000000000000000000031"
+    },
+    "courseId": {
+      "$oid": "a30000000000000000000006"
+    },
+    "chapterId": {
+      "$oid": "a40000000000000000000011"
+    },
+    "title": "Document và collection",
+    "content": "Nội dung chi tiết bài \"Document và collection\" thuộc khóa \"MongoDB & Mongoose\".",
+    "videoUrl": "https://www.youtube.com/watch?v=demo31",
+    "codeExample": "db.users.find({ role: 'student' })",
+    "attachments": [
+      {
+        "name": "Slide - Document và collection.pdf",
+        "url": "/files/course-6/lesson-31-slide.pdf"
+      }
+    ],
+    "isPreview": true,
+    "order": 1
+  },
+  {
+    "_id": {
+      "$oid": "a50000000000000000000032"
+    },
+    "courseId": {
+      "$oid": "a30000000000000000000006"
+    },
+    "chapterId": {
+      "$oid": "a40000000000000000000011"
+    },
+    "title": "CRUD cơ bản",
+    "content": "Nội dung chi tiết bài \"CRUD cơ bản\" thuộc khóa \"MongoDB & Mongoose\".",
+    "videoUrl": "https://www.youtube.com/watch?v=demo32",
+    "codeExample": "db.users.find({ role: 'student' })",
+    "attachments": [
+      {
+        "name": "Slide - CRUD cơ bản.pdf",
+        "url": "/files/course-6/lesson-32-slide.pdf"
+      }
+    ],
+    "isPreview": false,
+    "order": 2
+  },
+  {
+    "_id": {
+      "$oid": "a50000000000000000000033"
+    },
+    "courseId": {
+      "$oid": "a30000000000000000000006"
+    },
+    "chapterId": {
+      "$oid": "a40000000000000000000011"
+    },
+    "title": "Truy vấn nâng cao",
+    "content": "Nội dung chi tiết bài \"Truy vấn nâng cao\" thuộc khóa \"MongoDB & Mongoose\".",
+    "videoUrl": "https://www.youtube.com/watch?v=demo33",
+    "codeExample": "db.users.find({ role: 'student' })",
+    "attachments": [
+      {
+        "name": "Slide - Truy vấn nâng cao.pdf",
+        "url": "/files/course-6/lesson-33-slide.pdf"
+      }
+    ],
+    "isPreview": false,
+    "order": 3
+  }
+]

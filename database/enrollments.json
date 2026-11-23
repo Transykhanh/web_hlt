@@ -1,0 +1,146 @@
+[
+  {
+    "_id": {
+      "$oid": "a80000000000000000000001"
+    },
+    "userId": {
+      "$oid": "a10000000000000000000002"
+    },
+    "courseId": {
+      "$oid": "a30000000000000000000001"
+    },
+    "orderId": null,
+    "status": "active",
+    "enrolledAt": {
+      "$date": "2026-10-02T03:00:00.000Z"
+    },
+    "completedAt": {
+      "$date": "2026-10-16T10:00:00.000Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "a80000000000000000000002"
+    },
+    "userId": {
+      "$oid": "a10000000000000000000002"
+    },
+    "courseId": {
+      "$oid": "a30000000000000000000003"
+    },
+    "orderId": null,
+    "status": "active",
+    "enrolledAt": {
+      "$date": "2026-10-03T03:00:00.000Z"
+    },
+    "completedAt": null
+  },
+  {
+    "_id": {
+      "$oid": "a80000000000000000000003"
+    },
+    "userId": {
+      "$oid": "a10000000000000000000002"
+    },
+    "courseId": {
+      "$oid": "a30000000000000000000002"
+    },
+    "orderId": {
+      "$oid": "a60000000000000000000001"
+    },
+    "status": "active",
+    "enrolledAt": {
+      "$date": "2026-10-10T03:00:00.000Z"
+    },
+    "completedAt": null
+  },
+  {
+    "_id": {
+      "$oid": "a80000000000000000000004"
+    },
+    "userId": {
+      "$oid": "a10000000000000000000003"
+    },
+    "courseId": {
+      "$oid": "a30000000000000000000001"
+    },
+    "orderId": null,
+    "status": "active",
+    "enrolledAt": {
+      "$date": "2026-10-06T03:00:00.000Z"
+    },
+    "completedAt": null
+  },
+  {
+    "_id": {
+      "$oid": "a80000000000000000000005"
+    },
+    "userId": {
+      "$oid": "a10000000000000000000003"
+    },
+    "courseId": {
+      "$oid": "a30000000000000000000004"
+    },
+    "orderId": {
+      "$oid": "a60000000000000000000002"
+    },
+    "status": "active",
+    "enrolledAt": {
+      "$date": "2026-10-12T03:00:00.000Z"
+    },
+    "completedAt": null
+  },
+  {
+    "_id": {
+      "$oid": "a80000000000000000000006"
+    },
+    "userId": {
+      "$oid": "a10000000000000000000004"
+    },
+    "courseId": {
+      "$oid": "a30000000000000000000003"
+    },
+    "orderId": null,
+    "status": "active",
+    "enrolledAt": {
+      "$date": "2026-11-10T03:00:00.000Z"
+    },
+    "completedAt": null
+  },
+  {
+    "_id": {
+      "$oid": "a80000000000000000000007"
+    },
+    "userId": {
+      "$oid": "a10000000000000000000004"
+    },
+    "courseId": {
+      "$oid": "a30000000000000000000002"
+    },
+    "orderId": {
+      "$oid": "a60000000000000000000005"
+    },
+    "status": "active",
+    "enrolledAt": {
+      "$date": "2026-11-15T03:00:00.000Z"
+    },
+    "completedAt": null
+  },
+  {
+    "_id": {
+      "$oid": "a80000000000000000000008"
+    },
+    "userId": {
+      "$oid": "a10000000000000000000005"
+    },
+    "courseId": {
+      "$oid": "a30000000000000000000001"
+    },
+    "orderId": null,
+    "status": "cancelled",
+    "enrolledAt": {
+      "$date": "2026-10-04T03:00:00.000Z"
+    },
+    "completedAt": null
+  }
+]

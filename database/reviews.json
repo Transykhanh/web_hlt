@@ -1,0 +1,87 @@
+[
+  {
+    "_id": {
+      "$oid": "ad0000000000000000000001"
+    },
+    "userId": {
+      "$oid": "a10000000000000000000002"
+    },
+    "courseId": {
+      "$oid": "a30000000000000000000001"
+    },
+    "rating": 5,
+    "comment": "Giải thích dễ hiểu, phù hợp người mới.",
+    "status": "visible",
+    "createdAt": {
+      "$date": "2026-10-17T09:00:00.000Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "ad0000000000000000000002"
+    },
+    "userId": {
+      "$oid": "a10000000000000000000002"
+    },
+    "courseId": {
+      "$oid": "a30000000000000000000002"
+    },
+    "rating": 4,
+    "comment": "Nội dung chi tiết, bài tập hay.",
+    "status": "visible",
+    "createdAt": {
+      "$date": "2026-11-01T09:00:00.000Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "ad0000000000000000000003"
+    },
+    "userId": {
+      "$oid": "a10000000000000000000003"
+    },
+    "courseId": {
+      "$oid": "a30000000000000000000004"
+    },
+    "rating": 5,
+    "comment": "React được trình bày rất thực tế.",
+    "status": "visible",
+    "createdAt": {
+      "$date": "2026-11-05T09:00:00.000Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "ad0000000000000000000004"
+    },
+    "userId": {
+      "$oid": "a10000000000000000000003"
+    },
+    "courseId": {
+      "$oid": "a30000000000000000000001"
+    },
+    "rating": 4,
+    "comment": "Khóa học miễn phí chất lượng.",
+    "status": "visible",
+    "createdAt": {
+      "$date": "2026-10-20T09:00:00.000Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "ad0000000000000000000005"
+    },
+    "userId": {
+      "$oid": "a10000000000000000000004"
+    },
+    "courseId": {
+      "$oid": "a30000000000000000000003"
+    },
+    "rating": 5,
+    "comment": "Python dễ tiếp cận.",
+    "status": "visible",
+    "createdAt": {
+      "$date": "2026-11-14T09:00:00.000Z"
+    }
+  }
+]

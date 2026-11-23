@@ -1,0 +1,213 @@
+[
+  {
+    "_id": {
+      "$oid": "a30000000000000000000001"
+    },
+    "title": "HTML & CSS cơ bản",
+    "description": "Học cách xây dựng giao diện trang web đầu tiên với HTML5 và CSS3.",
+    "slug": "html-va-css-co-ban",
+    "thumbnail": "/images/courses/course-1.jpg",
+    "categoryId": {
+      "$oid": "a20000000000000000000001"
+    },
+    "price": 0,
+    "level": "beginner",
+    "status": "published",
+    "createdBy": {
+      "$oid": "a10000000000000000000001"
+    },
+    "duration": "10 giờ",
+    "isDeleted": false,
+    "studentCount": 2,
+    "learningOutcomes": [
+      "Dựng cấu trúc trang web bằng HTML5",
+      "Trình bày giao diện bằng CSS3, Flexbox",
+      "Làm trang web responsive"
+    ],
+    "requirements": [
+      "Biết sử dụng máy tính",
+      "Không cần kiến thức lập trình"
+    ],
+    "createdAt": {
+      "$date": "2026-10-05T03:00:00.000Z"
+    },
+    "updatedAt": {
+      "$date": "2026-10-05T03:00:00.000Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "a30000000000000000000002"
+    },
+    "title": "JavaScript từ cơ bản đến nâng cao",
+    "description": "Nắm vững JavaScript hiện đại: biến, hàm, DOM, bất đồng bộ và ES6+.",
+    "slug": "javascript-tu-co-ban-den-nang-cao",
+    "thumbnail": "/images/courses/course-2.jpg",
+    "categoryId": {
+      "$oid": "a20000000000000000000001"
+    },
+    "price": 299000,
+    "level": "intermediate",
+    "status": "published",
+    "createdBy": {
+      "$oid": "a10000000000000000000001"
+    },
+    "duration": "24 giờ",
+    "isDeleted": false,
+    "studentCount": 2,
+    "learningOutcomes": [
+      "Hiểu cú pháp và tư duy lập trình JavaScript",
+      "Thao tác DOM và xử lý sự kiện",
+      "Sử dụng async/await và Fetch API"
+    ],
+    "requirements": [
+      "Biết HTML & CSS cơ bản"
+    ],
+    "createdAt": {
+      "$date": "2026-10-05T03:00:00.000Z"
+    },
+    "updatedAt": {
+      "$date": "2026-10-05T03:00:00.000Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "a30000000000000000000003"
+    },
+    "title": "Python cho người mới bắt đầu",
+    "description": "Làm quen lập trình qua Python: cú pháp, cấu trúc dữ liệu và hàm.",
+    "slug": "python-cho-nguoi-moi-bat-dau",
+    "thumbnail": "/images/courses/course-3.jpg",
+    "categoryId": {
+      "$oid": "a20000000000000000000004"
+    },
+    "price": 0,
+    "level": "beginner",
+    "status": "published",
+    "createdBy": {
+      "$oid": "a10000000000000000000001"
+    },
+    "duration": "12 giờ",
+    "isDeleted": false,
+    "studentCount": 2,
+    "learningOutcomes": [
+      "Viết chương trình Python đơn giản",
+      "Sử dụng list, dict, vòng lặp, hàm",
+      "Đọc ghi file"
+    ],
+    "requirements": [
+      "Không yêu cầu kiến thức trước"
+    ],
+    "createdAt": {
+      "$date": "2026-10-05T03:00:00.000Z"
+    },
+    "updatedAt": {
+      "$date": "2026-10-05T03:00:00.000Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "a30000000000000000000004"
+    },
+    "title": "ReactJS thực chiến",
+    "description": "Xây dựng ứng dụng web với React, Hooks, React Router và Axios.",
+    "slug": "reactjs-thuc-chien",
+    "thumbnail": "/images/courses/course-4.jpg",
+    "categoryId": {
+      "$oid": "a20000000000000000000001"
+    },
+    "price": 499000,
+    "level": "intermediate",
+    "status": "published",
+    "createdBy": {
+      "$oid": "a10000000000000000000001"
+    },
+    "duration": "30 giờ",
+    "isDeleted": false,
+    "studentCount": 1,
+    "learningOutcomes": [
+      "Xây dựng component và quản lý state",
+      "Điều hướng với React Router",
+      "Gọi REST API bằng Axios"
+    ],
+    "requirements": [
+      "Thành thạo JavaScript ES6+"
+    ],
+    "createdAt": {
+      "$date": "2026-10-05T03:00:00.000Z"
+    },
+    "updatedAt": {
+      "$date": "2026-10-05T03:00:00.000Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "a30000000000000000000005"
+    },
+    "title": "Node.js & Express: xây dựng REST API",
+    "description": "Tạo REST API với Express, JWT, phân quyền và kết nối MongoDB.",
+    "slug": "node-js-va-express-xay-dung-rest-api",
+    "thumbnail": "/images/courses/course-5.jpg",
+    "categoryId": {
+      "$oid": "a20000000000000000000002"
+    },
+    "price": 399000,
+    "level": "intermediate",
+    "status": "published",
+    "createdBy": {
+      "$oid": "a10000000000000000000001"
+    },
+    "duration": "22 giờ",
+    "isDeleted": false,
+    "studentCount": 0,
+    "learningOutcomes": [
+      "Dựng server Express",
+      "Xác thực bằng JWT và bcryptjs",
+      "Thiết kế route, middleware, controller"
+    ],
+    "requirements": [
+      "Biết JavaScript cơ bản"
+    ],
+    "createdAt": {
+      "$date": "2026-10-05T03:00:00.000Z"
+    },
+    "updatedAt": {
+      "$date": "2026-10-05T03:00:00.000Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "a30000000000000000000006"
+    },
+    "title": "MongoDB & Mongoose",
+    "description": "Thiết kế dữ liệu NoSQL và truy vấn với MongoDB, Mongoose.",
+    "slug": "mongodb-va-mongoose",
+    "thumbnail": "/images/courses/course-6.jpg",
+    "categoryId": {
+      "$oid": "a20000000000000000000003"
+    },
+    "price": 249000,
+    "level": "beginner",
+    "status": "draft",
+    "createdBy": {
+      "$oid": "a10000000000000000000001"
+    },
+    "duration": "14 giờ",
+    "isDeleted": false,
+    "studentCount": 0,
+    "learningOutcomes": [
+      "Hiểu mô hình document",
+      "Viết truy vấn và aggregation cơ bản",
+      "Định nghĩa Schema, index với Mongoose"
+    ],
+    "requirements": [
+      "Biết JavaScript cơ bản"
+    ],
+    "createdAt": {
+      "$date": "2026-10-05T03:00:00.000Z"
+    },
+    "updatedAt": {
+      "$date": "2026-10-05T03:00:00.000Z"
+    }
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "_id": {
+      "$oid": "a20000000000000000000001"
+    },
+    "name": "Lập trình Web",
+    "description": "Các khóa học HTML, CSS, JavaScript và framework web.",
+    "status": "active"
+  },
+  {
+    "_id": {
+      "$oid": "a20000000000000000000002"
+    },
+    "name": "Lập trình Backend",
+    "description": "Xây dựng API, máy chủ và xử lý nghiệp vụ phía server.",
+    "status": "active"
+  },
+  {
+    "_id": {
+      "$oid": "a20000000000000000000003"
+    },
+    "name": "Cơ sở dữ liệu",
+    "description": "SQL, NoSQL và thiết kế dữ liệu.",
+    "status": "active"
+  },
+  {
+    "_id": {
+      "$oid": "a20000000000000000000004"
+    },
+    "name": "Ngôn ngữ lập trình",
+    "description": "Học ngôn ngữ lập trình từ nền tảng đến nâng cao.",
+    "status": "active"
+  },
+  {
+    "_id": {
+      "$oid": "a20000000000000000000005"
+    },
+    "name": "Công cụ & DevOps",
+    "description": "Git, Docker, triển khai và công cụ làm việc nhóm.",
+    "status": "active"
+  }
+]

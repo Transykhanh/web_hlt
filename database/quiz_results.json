@@ -1,0 +1,286 @@
+[
+  {
+    "_id": {
+      "$oid": "ab0000000000000000000001"
+    },
+    "quizId": {
+      "$oid": "a90000000000000000000001"
+    },
+    "userId": {
+      "$oid": "a10000000000000000000002"
+    },
+    "attempt": 1,
+    "score": 100,
+    "passed": true,
+    "answers": [
+      {
+        "questionId": {
+          "$oid": "aa0000000000000000000001"
+        },
+        "selected": "A",
+        "isCorrect": true
+      },
+      {
+        "questionId": {
+          "$oid": "aa0000000000000000000002"
+        },
+        "selected": "B",
+        "isCorrect": true
+      },
+      {
+        "questionId": {
+          "$oid": "aa0000000000000000000003"
+        },
+        "selected": "A",
+        "isCorrect": true
+      }
+    ],
+    "submittedAt": {
+      "$date": "2026-10-05T09:00:00.000Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "ab0000000000000000000002"
+    },
+    "quizId": {
+      "$oid": "a90000000000000000000002"
+    },
+    "userId": {
+      "$oid": "a10000000000000000000002"
+    },
+    "attempt": 1,
+    "score": 67,
+    "passed": false,
+    "answers": [
+      {
+        "questionId": {
+          "$oid": "aa0000000000000000000004"
+        },
+        "selected": "C",
+        "isCorrect": true
+      },
+      {
+        "questionId": {
+          "$oid": "aa0000000000000000000005"
+        },
+        "selected": "A",
+        "isCorrect": false
+      },
+      {
+        "questionId": {
+          "$oid": "aa0000000000000000000006"
+        },
+        "selected": "A",
+        "isCorrect": true
+      }
+    ],
+    "submittedAt": {
+      "$date": "2026-10-20T09:00:00.000Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "ab0000000000000000000003"
+    },
+    "quizId": {
+      "$oid": "a90000000000000000000003"
+    },
+    "userId": {
+      "$oid": "a10000000000000000000002"
+    },
+    "attempt": 1,
+    "score": 67,
+    "passed": true,
+    "answers": [
+      {
+        "questionId": {
+          "$oid": "aa0000000000000000000007"
+        },
+        "selected": "B",
+        "isCorrect": true
+      },
+      {
+        "questionId": {
+          "$oid": "aa0000000000000000000008"
+        },
+        "selected": "C",
+        "isCorrect": true
+      },
+      {
+        "questionId": {
+          "$oid": "aa0000000000000000000009"
+        },
+        "selected": "A",
+        "isCorrect": false
+      }
+    ],
+    "submittedAt": {
+      "$date": "2026-10-08T09:00:00.000Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "ab0000000000000000000004"
+    },
+    "quizId": {
+      "$oid": "a90000000000000000000001"
+    },
+    "userId": {
+      "$oid": "a10000000000000000000003"
+    },
+    "attempt": 1,
+    "score": 67,
+    "passed": true,
+    "answers": [
+      {
+        "questionId": {
+          "$oid": "aa0000000000000000000001"
+        },
+        "selected": "A",
+        "isCorrect": true
+      },
+      {
+        "questionId": {
+          "$oid": "aa0000000000000000000002"
+        },
+        "selected": "A",
+        "isCorrect": false
+      },
+      {
+        "questionId": {
+          "$oid": "aa0000000000000000000003"
+        },
+        "selected": "A",
+        "isCorrect": true
+      }
+    ],
+    "submittedAt": {
+      "$date": "2026-10-09T09:00:00.000Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "ab0000000000000000000005"
+    },
+    "quizId": {
+      "$oid": "a90000000000000000000003"
+    },
+    "userId": {
+      "$oid": "a10000000000000000000004"
+    },
+    "attempt": 1,
+    "score": 100,
+    "passed": true,
+    "answers": [
+      {
+        "questionId": {
+          "$oid": "aa0000000000000000000007"
+        },
+        "selected": "B",
+        "isCorrect": true
+      },
+      {
+        "questionId": {
+          "$oid": "aa0000000000000000000008"
+        },
+        "selected": "C",
+        "isCorrect": true
+      },
+      {
+        "questionId": {
+          "$oid": "aa0000000000000000000009"
+        },
+        "selected": "B",
+        "isCorrect": true
+      }
+    ],
+    "submittedAt": {
+      "$date": "2026-11-12T09:00:00.000Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "ab0000000000000000000006"
+    },
+    "quizId": {
+      "$oid": "a90000000000000000000002"
+    },
+    "userId": {
+      "$oid": "a10000000000000000000002"
+    },
+    "attempt": 2,
+    "score": 100,
+    "passed": true,
+    "answers": [
+      {
+        "questionId": {
+          "$oid": "aa0000000000000000000004"
+        },
+        "selected": "C",
+        "isCorrect": true
+      },
+      {
+        "questionId": {
+          "$oid": "aa0000000000000000000005"
+        },
+        "selected": "B",
+        "isCorrect": true
+      },
+      {
+        "questionId": {
+          "$oid": "aa0000000000000000000006"
+        },
+        "selected": "A",
+        "isCorrect": true
+      }
+    ],
+    "submittedAt": {
+      "$date": "2026-10-21T09:00:00.000Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "ab0000000000000000000007"
+    },
+    "quizId": {
+      "$oid": "a90000000000000000000004"
+    },
+    "userId": {
+      "$oid": "a10000000000000000000003"
+    },
+    "attempt": 1,
+    "score": 100,
+    "passed": true,
+    "answers": [
+      {
+        "questionId": {
+          "$oid": "aa0000000000000000000010"
+        },
+        "selected": "A",
+        "isCorrect": true
+      },
+      {
+        "questionId": {
+          "$oid": "aa0000000000000000000011"
+        },
+        "selected": [
+          "A",
+          "B",
+          "D"
+        ],
+        "isCorrect": true
+      },
+      {
+        "questionId": {
+          "$oid": "aa0000000000000000000012"
+        },
+        "selected": "B",
+        "isCorrect": true
+      }
+    ],
+    "submittedAt": {
+      "$date": "2026-10-30T09:00:00.000Z"
+    }
+  }
+]

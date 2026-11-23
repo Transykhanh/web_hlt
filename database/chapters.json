@@ -1,0 +1,123 @@
+[
+  {
+    "_id": {
+      "$oid": "a40000000000000000000001"
+    },
+    "courseId": {
+      "$oid": "a30000000000000000000001"
+    },
+    "title": "Giới thiệu HTML",
+    "description": "Nội dung chương: Giới thiệu HTML.",
+    "order": 1
+  },
+  {
+    "_id": {
+      "$oid": "a40000000000000000000002"
+    },
+    "courseId": {
+      "$oid": "a30000000000000000000001"
+    },
+    "title": "Làm quen CSS",
+    "description": "Nội dung chương: Làm quen CSS.",
+    "order": 2
+  },
+  {
+    "_id": {
+      "$oid": "a40000000000000000000003"
+    },
+    "courseId": {
+      "$oid": "a30000000000000000000002"
+    },
+    "title": "Nền tảng JavaScript",
+    "description": "Nội dung chương: Nền tảng JavaScript.",
+    "order": 1
+  },
+  {
+    "_id": {
+      "$oid": "a40000000000000000000004"
+    },
+    "courseId": {
+      "$oid": "a30000000000000000000002"
+    },
+    "title": "DOM và bất đồng bộ",
+    "description": "Nội dung chương: DOM và bất đồng bộ.",
+    "order": 2
+  },
+  {
+    "_id": {
+      "$oid": "a40000000000000000000005"
+    },
+    "courseId": {
+      "$oid": "a30000000000000000000003"
+    },
+    "title": "Bắt đầu với Python",
+    "description": "Nội dung chương: Bắt đầu với Python.",
+    "order": 1
+  },
+  {
+    "_id": {
+      "$oid": "a40000000000000000000006"
+    },
+    "courseId": {
+      "$oid": "a30000000000000000000003"
+    },
+    "title": "Cấu trúc dữ liệu và hàm",
+    "description": "Nội dung chương: Cấu trúc dữ liệu và hàm.",
+    "order": 2
+  },
+  {
+    "_id": {
+      "$oid": "a40000000000000000000007"
+    },
+    "courseId": {
+      "$oid": "a30000000000000000000004"
+    },
+    "title": "Cơ bản về React",
+    "description": "Nội dung chương: Cơ bản về React.",
+    "order": 1
+  },
+  {
+    "_id": {
+      "$oid": "a40000000000000000000008"
+    },
+    "courseId": {
+      "$oid": "a30000000000000000000004"
+    },
+    "title": "Ứng dụng React hoàn chỉnh",
+    "description": "Nội dung chương: Ứng dụng React hoàn chỉnh.",
+    "order": 2
+  },
+  {
+    "_id": {
+      "$oid": "a40000000000000000000009"
+    },
+    "courseId": {
+      "$oid": "a30000000000000000000005"
+    },
+    "title": "Express cơ bản",
+    "description": "Nội dung chương: Express cơ bản.",
+    "order": 1
+  },
+  {
+    "_id": {
+      "$oid": "a40000000000000000000010"
+    },
+    "courseId": {
+      "$oid": "a30000000000000000000005"
+    },
+    "title": "Bảo mật API",
+    "description": "Nội dung chương: Bảo mật API.",
+    "order": 2
+  },
+  {
+    "_id": {
+      "$oid": "a40000000000000000000011"
+    },
+    "courseId": {
+      "$oid": "a30000000000000000000006"
+    },
+    "title": "Làm quen MongoDB",
+    "description": "Nội dung chương: Làm quen MongoDB.",
+    "order": 1
+  }
+]
