@@ -6,11 +6,13 @@ const app = express();
 
 const HomeRoutes = require('./routes/HomeRoutes');
 const AuthRoutes = require('./routes/AuthRoutes');
+const CourseRouters = require('./routes/CourseRouters');
 
 // Middleware
 app.use(cors());
 app.use(express.json());
 app.use('/api', HomeRoutes);
+app.use('/api', CourseRouters);
 app.use("/auth", AuthRoutes);
 
 // API kiểm tra
