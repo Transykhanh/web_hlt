@@ -6,7 +6,6 @@ const app = express();
 
 const HomeRoutes = require('./routes/HomeRoutes');
 const AuthRoutes = require('./routes/AuthRoutes');
-const User = require("./models/User");
 
 // Middleware
 app.use(cors());
